@@ -4,14 +4,13 @@
 ✨ Debugging life, one commit at a time
 
  
- 🌟 About Me
+  About Me
 
 * I build simple, clean, and responsive websites
 * Interested in UI/UX design and user-friendly interfaces
 * Continuously learning and improving my skills
 
-
-🛠️ Tech Stack
+ Tech Stack
 
 * HTML, CSS, JavaScript
 * Python
