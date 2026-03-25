@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Shene Rose Suelo
+# 
 
 💻 Front-End Developer | UI/UX Designer
-✨ Debugging life, one commit at a time
+
 
  
   About Me
