@@ -1,6 +1,6 @@
 # 
 
-💻 Front-End Developer | UI/UX Designer
+ Front-End Developer | UI/UX Designer
 
 
  
